@@ -1,0 +1,5 @@
+project:
+  name: adr-example
+  tz: Europe/London
+  adrFolder: ./docs/adr
+  packages: []
