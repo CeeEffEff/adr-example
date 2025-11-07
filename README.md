@@ -1,5 +1,7 @@
 # ADR Example Repository
 
+[![Log4brains ADRs](https://ceeeffeff.github.io/adr-example/log4brains//badge.svg)](https://ceeeffeff.github.io/adr-example/log4brains/)
+
 An experimental repository for working with **Architecture Decision Records (ADRs)** using modern tooling and best practices.
 
 ## What are ADRs?
